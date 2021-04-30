@@ -6,8 +6,8 @@
 int main(int argc, char *argv[]) {
 
 
-printf("±èÁ¤ÀÎ\n");
-printf("¼ÒÇÁÆ®¿ş¾îÇĞ°ú\n");
+printf("ê¹€ì •ì¸\n");
+printf("ì†Œí”„íŠ¸ì›¨ì–´í•™ê³¼\n");
 
 	  
 	return 0;
